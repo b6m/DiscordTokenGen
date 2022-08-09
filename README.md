@@ -1,2 +1,2 @@
 # DiscordTokenGen
-# Star = More Leaks
+# Star = More 
